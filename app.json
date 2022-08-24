@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "trip-invest-ui",
+    "slug": "trip-invest-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
